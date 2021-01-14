@@ -6,9 +6,10 @@ title: The garden
 I suggest that before reading other materials from this section, you should first read here. 
 1. first you should know what I mean by phenomenal consciousness.
    1. Let's use [[mary_the_color_scientist|Mary the color scientist]] as a starting point.  
-
-2. Physicalism and materialism are extremely problematic positions to hold and physicalism cannot answer how we have consciousness. 
-3. I will assert that Panpsychism is probably the best position to hold. 
+2. Why currentist physicalism cannot explain how our bodies are related to our consciousness.
+   1. Read [[why_physicalism_cannot_explain_consciousness|why physicalism cannot explain consciousness]].
+3. Physicalism and materialism are extremely problematic positions to hold and physicalism cannot answer how we have consciousness. 
+4. I will assert that Panpsychism is probably the best position to hold. 
 
 ### Ethics
 1. I assert that we cannot have realist normative schools, rather they are preferences. 
