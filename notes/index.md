@@ -8,6 +8,7 @@ I suggest that before reading other materials from this section, you should firs
    1. Let's use [[mary_the_color_scientist|Mary the color scientist]] as a starting point.  
 2. Why currentist physicalism cannot explain how our bodies are related to our consciousness.
    1. Read [[why_physicalism_cannot_explain_consciousness|why physicalism cannot explain consciousness]].
+   2. also ready [[Perspective_argument_for_physicalism_wont_work|Why perspective argument for physicalism won't work!]]
 3. Physicalism and materialism are extremely problematic positions to hold and physicalism cannot answer how we have consciousness. 
 4. I will assert that Panpsychism is probably the best position to hold. 
 
