@@ -2,7 +2,7 @@
 title: The garden
 ---
 # The garden:
-## mind stuff
+## Mind stuff
 I suggest that before reading other materials from this section, you should first read here. 
 1. first you should know what I mean by phenomenal consciousness.
    1. Let's use [[mary_the_color_scientist|Mary the color scientist]] as a starting point.  
