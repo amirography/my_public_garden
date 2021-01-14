@@ -5,7 +5,7 @@ title: Perspective argument for physicalism won't work
 In [[why_physicalism_cannot_explain_consciousness| Why physicalism cannot explain consciousness]] I have explained that physicalism face a problem when trying to explain qualias[^1]. We also defined physicalism in 2 different dictums[^2] .  And I also mentioned that physicalism has two answers to this question. In this post I will try to tell you one of those solutions and why I believe it is are not valid. 
 
 Consider two people looking at an object from different angles. Each of these two people are seeing the same object but each of them is having a whole different picture from that object.Let's say that object is a coin. I'm seeing one side of the coin and I say there is a triangle on it, and you are seeing it and you are saying there is no triangle there. But a rectangle.  Obviously we are both telling a different story about the same object and yet we are both oblivious towards the experience of the other person. We may infer that we are seeing different objects. But actually we are seeing the same coin, just from different perspectives. 
-![](/images/different-perspectives.svg#center)
+![](/assets/different-perspectives.svg#center)
 A physicalist here says that, maybe that's the reason why we are not seeing the reddish qualia in reddish-qualia-neurons ™ when we are seeing an apple. Because experiencing the reddish qualia is just a first-person perspective of the process of seeing the apple that happens in our brain. While seeing the neural activity is just a third-person person perspective of the process of seeing the apple.
 ![](/assets/colors-from-inside.svg#center)
 So you can say the neural activity does not produce consciousness, rather it is, itself the conscious experience of red.
@@ -20,8 +20,6 @@ In the next post I will explain a physicalist defense that has been called "the 
 
 [^1]: Qualias are instances of specific conscious experiences that a person has. I already defined qualias in my post called [[mary_the_color_scientist|Mary The Color Scientist]].
 [^2]: 
-
 	1. Everything is made up of non-conscious stuff
     1. Every action that things do, can be explained by the actions that their constituting parts do.
-
 [^3]: There is a great and famous [paper](https://doi.org/10.2307/2183914) by Thomas Nagel that has been so influential that has its own dedicated [What Is It Like to Be a Bat? - Wikipedia](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F). I plan to talk about it in a future post. But for now, you can always read the original!

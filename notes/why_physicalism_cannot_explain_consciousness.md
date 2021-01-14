@@ -36,7 +36,7 @@ How would the scientists or anyone ever know that? You may propose that the patt
 And yet if we don't ask the participants, we have no other way of investigating those qualias. We don't have any similar problems in investigating any other causal problems. (I will further investigate that problem in a separate post. ) In principle, I can say that a person acted this way because of these set of natural physical processes, the only obstacle is technological and scientific knowledge that may be obtained, in future. But there is no way a quality like redness can be seen the activity of neurons (Do you see any reddish quality when you watch the reddish-qualia-neurons?). Or can be explained just by a qualia-less, conscious-less processes. So what does physicallists have as a solution?
 
 There are two main solutions:
-1. The perspective argument
+1. [[perspective_argument_for_physicalism_wont_work|The perspective argument]]
 2. The illusionism
  
  I will link this entry with them them as soon as possible. 
