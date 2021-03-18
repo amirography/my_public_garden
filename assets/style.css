@@ -18,6 +18,12 @@ body {
     background-color:#ecececff;
 
     color: #4b4b4bff;
+    word-wrap:break-word;
+    overflow-wrap:break-word;
+    -ms-hyphens:auto;
+    -webkit-hyphens:auto;
+    hyphens: auto !important;
+    -moz-hyphens: auto;
 }
 
 @media only screen and (max-width: 468px) {
@@ -75,19 +81,24 @@ a[href]:focus {
 }
 
 /* Typography */
-p {margin-bottom: 1.15rem;}
+p {margin-bottom: 0.7rem;}
 
 h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
   font-weight: 900;
   font-family: "Poppins";
   line-height: 1.15em;
-
-  
-}
+  word-wrap:break-word;
+  overflow-wrap:break-word;
+  -ms-hyphens:auto;
+  -webkit-hyphens:auto;
+  hyphens: auto !important;
+  -moz-hyphens: auto;
+  }
 h1 {
     font-size: 2.5em;
     color: #007568;
+
 }
 
 
