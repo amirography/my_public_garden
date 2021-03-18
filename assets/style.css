@@ -1,6 +1,6 @@
 :root {
-    --accent: #1a9ca5;
-    --grey: #444;
+    --accent: #007568;
+    --grey: #666666;
 }
 
 html {
@@ -9,14 +9,17 @@ html {
 }
 
 body {
-    font-family: Inter, sans-serif;
-    line-height: 1.65;
+    font-family: poppins,Inter, sans-serif;
+    line-height: 2em;
     
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 
     margin: 0 24px;
+    background-color:#ecececff;
+
+    color: #4b4b4bff;
 }
 
 @media only screen and (max-width: 468px) {
@@ -57,10 +60,11 @@ main {
 
 a[href] {
     color: var(--accent);
+    text-decoration: none;
 }
 
 a[href]:hover {
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a[href]:focus {
@@ -77,25 +81,46 @@ p {margin-bottom: 1.15rem;}
 
 h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
-  font-weight: 400;
-  line-height: 1.15;
+  font-weight: 900;
+  font-family: "poppins black";
+  line-height: 1.25em;
+}
+h1 {
+    font-size: 3.052em;
+    color: #007568;
 }
 
-h1 {font-size: 3.052em;}
 
-h2 {font-size: 2.441em;}
+h2 {
+    font-size: 2.441em;
+    color: #e65600;
+}
 
-h3 {font-size: 1.953em;}
+h3 {
+    font-size: 1.953em;
+    color: #007942;
+}
 
-h4 {font-size: 1.563em;}
+h4 {
+    font-size: 1.7em;
+    color: #cd0052;
+}
 
-h5, .larger {font-size: 1.25em;}
+h5 {
+    font-size 1.5em;
+    color:#9c00ef;    
+}
+
+.larger {font-size: 1.5em;}
 
 small {font-size: 0.8em;}
 
 /* backlinks */
 .backlinks-title {
-    margin-bottom: 0;
+    margin-bottom: 0.7em;
+    font-size: 2.441em;
+    color: #e65600;
+      font-family: "poppins black";
 }
 
 .backlinks-container {
@@ -110,31 +135,36 @@ small {font-size: 0.8em;}
 
 .backlink__preview {
     display: none;
-    
     position: absolute;
-    bottom: 8px;
-    left: 100%;
-    background-color: #fff;
+    bottom: 2em;
+    left: 30%;
+    background-color: #ecececff;
     border-radius: 4px;
     padding: 4px;
-    box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.25);
-    width: 348px;
-    max-height: 148px;
+    /*box-shadow: 0 0 4px 2px rgba(0, 0, 0, 0.25);*/
+    box-shadow:0px 0px 30px rgba(0,0,0,0.125),0 .5em 1em -.125em rgba(10,10,10,.1),0 0 0 1px rgba(10,10,10,.02);border:0;
+
+    width: 30em;
+    max-height: 30em;
+    min-height: 10em;
     overflow: hidden;
 }
 .backlink__preview::after {
     content: "";
     position: absolute;
     bottom: 0;
-    background: linear-gradient(transparent, white);
     width: 100%;
     height: 24px;
 }
 
-.backlink__preview h1 {
-    font-size: 1.2rem;
+.backlink__preview h1,.backlink__preview h2,.backlink__preview h3 {
+    font-size: 1.25em;
     margin-top: 8px;
     font-weight: bold;
+}
+.backlink__preview {
+    font-size:0.7em;
+    margin-left:0.5em !important;
 }
 
 .backlink {

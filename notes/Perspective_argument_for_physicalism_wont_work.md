@@ -23,3 +23,4 @@ In the next post I will explain a physicalist defense that has been called "the 
 	1. Everything is made up of non-conscious stuff
     1. Every action that things do, can be explained by the actions that their constituting parts do.
 [^3]: There is a great and famous [paper](https://doi.org/10.2307/2183914) by Thomas Nagel that has been so influential that has its own dedicated [What Is It Like to Be a Bat? - Wikipedia](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F). I plan to talk about it in a future post. But for now, you can always read the original!
+
