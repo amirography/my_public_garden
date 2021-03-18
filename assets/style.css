@@ -18,8 +18,6 @@ body {
     background-color:#ecececff;
 
     color: #4b4b4bff;
-    word-wrap:break-word;
-    overflow-wrap:break-word;
     -ms-hyphens:auto;
     -webkit-hyphens:auto;
     hyphens: auto !important;
