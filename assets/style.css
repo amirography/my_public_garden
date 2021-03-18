@@ -11,11 +11,9 @@ html {
 body {
     font-family: "Poppins", sans-serif;
     line-height: 2em;
-    
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-
     margin: 0 24px;
     background-color:#ecececff;
 
@@ -83,35 +81,37 @@ h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
   font-weight: 900;
   font-family: "Poppins";
-  line-height: 1.25em;
+  line-height: 1.15em;
+
+  
 }
 h1 {
-    font-size: 3.052em;
+    font-size: 2.5em;
     color: #007568;
 }
 
 
 h2 {
-    font-size: 2.441em;
+    font-size: 2.1em;
     color: #e65600;
 }
 
 h3 {
-    font-size: 1.953em;
+    font-size: 1.7em;
     color: #007942;
 }
 
 h4 {
-    font-size: 1.7em;
+    font-size: 1.5em;
     color: #cd0052;
 }
 
 h5 {
-    font-size 1.5em;
+    font-size: 1.25em;
     color:#9c00ef;    
 }
 
-.larger {font-size: 1.5em;}
+.larger {font-size: 1.25em;}
 
 small {font-size: 0.8em;}
 
@@ -188,18 +188,20 @@ img[src$='#center']
                             whatever floats your boat, but keep the
                             horizontal 'auto' for this to work */
     /* whatever else styles you fancy here */
+    max-width: 100%;
+    height: auto;
 }
 
 img[src$='#floatleft']
 {
     float:left;
-    margin: 0.7rem;      /* this margin is totally up to you */
+    margin: 0.7rem auto;      /* this margin is totally up to you */
     /* whatever else styles you fancy here */
 }
 
 img[src$='#floatright']
 {
     float:right;
-    margin: 0.7rem;      /* this margin is totally up to you */
+    margin: 0.7rem auto;      /* this margin is totally up to you */
     /* whatever else styles you fancy here */
 }
