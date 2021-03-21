@@ -1,5 +1,5 @@
 ---
-title:Mary the color scientist
+title: Mary the color scientist
 ---
 
 # Mary the color scientist
