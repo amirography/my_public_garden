@@ -1,6 +1,7 @@
 ---
-title:Mary the color scientist
+title:Telegram voice chat - first session outline
 ---
+# Telegram voice chat - first session outline
 - Telegram voice chat - first session outline
     1. Who am I
          1. Academic
