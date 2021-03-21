@@ -26,6 +26,16 @@ module.exports = function(eleventyConfig) {
         return md.render(string)
     })
 
+// typeset plug-in
+    //const typesetPlugin = require('eleventy-plugin-typeset');
+ 
+   // module.exports = (eleventyConfig) => {
+     // eleventyConfig.addPlugin(typesetPlugin({
+        //only: '.article-text', // Run only on HTML content within a certain CSS selector
+      //}));
+   // };
+//
+    //
     eleventyConfig.setLibrary('md', md);
     
     eleventyConfig.addCollection("notes", function (collection) {
